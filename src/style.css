@@ -1,1 +1,46 @@
-/* Acá va tu código */
+body{
+background-image:url(https://userscontent2.emaze.com/images/e1b6373e-b1fd-445c-bf55-e4fe36617613/ad9d47affb6ca8c9af00118c88272eb2.jpg)
+}
+
+h1 { background-color: #e5fdf7;
+    color: rgb(108, 136, 141);
+    font-size: 4em;
+    font-family: inherit;
+    text-align: center;
+}
+
+em{  font-size: 1.5em;
+    font-family: inherit;
+    text-align: center;
+    margin-left: 680px;
+}
+p{ color:black;
+    font-size: 1.5em;
+    font-family: inherit;
+    text-align: center;
+}
+
+input{font-size: 1.5em;
+    text-align: center;
+    margin-left: 640px
+}
+button{color: rgb(21, 90, 95);
+    font-size: 1.5em;
+    text-align: center;
+    
+}
+
+#cifrar{
+    margin-left:640px;
+}
+
+#descifrar{
+    margin-left: 112px;
+}
+
+#limpiar{
+    margin-left: 750px;
+}
+::placeholder{
+    text-align: center;
+}
