@@ -1,9 +1,5 @@
 let cifrar = document.getElementById("cifrar");
-// let desplazamiento = document.getElementById("desplazamiento").value;
 let descifrar = document.getElementById("descifrar");
-// let palabra = document.getElementById("palabra").value;
-// let resultado = document.getElementById("resultado");
-// let limpiar = document.getElementById("limpiar");
 
 
 cifrar.addEventListener("click", () => {
