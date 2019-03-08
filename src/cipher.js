@@ -1,8 +1,8 @@
 window.cipher = {
   encode: (palabra,offsetNumber) => {
     let codificar = "";
-for (let i=0; i<palabra.length; i++) {
-let ascii = palabra.charCodeAt(i);
+     for (let i=0; i<palabra.length; i++) {
+       let ascii = palabra.charCodeAt(i);
   // if(ascii>=65 && ascii<=90){
 codificar+=String.fromCharCode((ascii-65+offsetNumber)%26+65);
 // }
