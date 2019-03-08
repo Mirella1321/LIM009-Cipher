@@ -1,3 +1,24 @@
+El cifrado César es uno de los primeros métodos de cifrado conocidos históricamente. 
+Julio César lo usó para enviar órdenes a sus generales en los campos de batalla. 
+Consistía en escribir el mensaje con un alfabeto que estaba formado por las letras 
+del alfabeto latino normal desplazadas tres posiciones a la derecha.
+es decir si escribe ABRIR El mensaje cifrado seria "DEULU"
+
+En esta oportunidad el siguiente producto se basa en el cifrado cesar con la posibilidad
+de que sea el usuario el que decida el numero que desplazamientos lo cual le da mayor 
+seguridad.
+
+El principal usuario es toda aquella persona que desee abrir o cerrar las puertas
+de su casa usando el cifrado.
+
+El objetivo es que los usuarios si sientan seguros al estar fuera de casa si coloca su 
+nombre y poner cifrar automaticamente, ya que escribe el texto y automaticamente
+se guarda la contraseña y abre la puerta, para cerrarla coloca el descifrado y se cierra.
+de esta forma los integrantes de la familia podran tener el control de sus hogares
+y sentirse seguros al estar fuera de casa.
+
+creo que se esta creando, brinda primordialmente seguridad, ademas no tienen porque
+precuparse si perdieron  u olvidaron las llaves.
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
